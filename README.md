@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jidokasg
+- 👋 Hi, I’m @kennytgw
 - 👀 I’m interested in data science and computer vision
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on data analytics project
